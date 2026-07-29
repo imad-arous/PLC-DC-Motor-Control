@@ -60,3 +60,15 @@ This project strengthened my understanding of:
 Imad Arous  
 Electrical Engineering Graduate  
 University of Science and Technology Houari Boumediene (USTHB)
+---
+
+## Project Images
+
+### GRAFCET
+![GRAFCET](Images/grafcet_motor_control.png)
+
+### Input Wiring Diagram
+![Input Wiring](Images/input_wiring_diagram.png)
+
+### Output Wiring Diagram
+![Output Wiring](Images/output_wiring_diagram.png)
